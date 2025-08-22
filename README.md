@@ -33,7 +33,7 @@ It predicts movies a user is most likely to enjoy and presents them in an intera
 ---
 
 ## 📸 Demo
-👉 [Try the Live App on Streamlit](YOUR_STREAMLIT_APP_URL)  
+👉 [Try the Live App on Streamlit](https://recsys-movielens-nrdnqdnnqlx6jw5drwy7va.streamlit.app/)  
 
 *(Add a screenshot or GIF here to showcase your app UI)*  
 
