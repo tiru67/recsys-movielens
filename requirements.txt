@@ -4,4 +4,3 @@ scikit-learn
 fastapi
 uvicorn
 streamlit
-surprise
